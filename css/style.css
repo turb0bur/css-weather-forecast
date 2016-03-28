@@ -39,16 +39,12 @@ main {
 	border: 2px solid #fff;
 }
 
+.wf-city > h3 {
+	margin: 0;
+}
+
 .wf-cities:hover .wf-city:not(:hover) {
 	opacity: 0.6;
-}
-
-.wf-box-content {
-	padding: 0;
-}
-
-li {
-    list-style-type: none;
 }
 
 .wf-weather {
